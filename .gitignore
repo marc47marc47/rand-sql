@@ -1,0 +1,7 @@
+/target
+*.sql
+/tmp
+/log
+/logs
+*.swp
+/*/*.swp
